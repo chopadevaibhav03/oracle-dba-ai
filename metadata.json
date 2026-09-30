@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Oracle AI DBA Sentinel",
+  "description": "Enterprise Oracle AI DBA automation system with full-environment Copilot Crew, Local LLM Lead Model with LangChain tool calling \u0026 RAG, Human-in-the-Loop dual-custody MFA authorization, automated OpenSCAP \u0026 VAPT hardening, interactive DBA terminal, and printable executive PDF audit reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
